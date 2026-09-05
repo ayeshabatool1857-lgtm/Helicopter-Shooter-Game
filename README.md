@@ -1,4 +1,4 @@
-\*\* HELICOPTER SHOOTER GAME
+&#x20;HELICOPTER SHOOTER GAME
 
 
 
@@ -6,7 +6,7 @@ A 2D helicopter shooter game developed in C# using Windows Forms and Object-Orie
 
 
 
-\* About the Project
+About the Project
 
 
 
@@ -14,7 +14,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\* Features
+Features
 
 
 
@@ -29,7 +29,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\*Technologies Used
+Technologies Used
 
 
 
@@ -41,7 +41,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\* OOP Concepts Used
+OOP Concepts Used
 
 
 
@@ -54,7 +54,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\*Project Structure
+Project Structure
 
 
 
@@ -68,7 +68,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\*How to Run
+How to Run
 
 * Clone or download this repository.
 * Open Helicopter Shooter Game.slnx in Visual Studio.
@@ -77,7 +77,7 @@ This project was developed as part of my first-year Computer Science coursework.
 
 
 
-\*What I Learned
+What I Learned
 
 
 
@@ -85,23 +85,19 @@ Through this project, I practiced C# programming, object-oriented design, GUI de
 
 
 
-\*  Screenshots
+Screenshots
 
 
 
 * Start Screen
 
-!\[Start Screen](screenshots/start-screen.png)
-
-
+!\[Start Screen](./screenshots/start-screen.png)
 
 * Gameplay
 
-!\[Gameplay](screenshots/game-play.png)
-
-
+!\[Gameplay](./screenshots/game-play.png)
 
 * Game Over
 
-!\[Game Over](screenshots/game-over.png)
+!\[Game Over](./screenshots/game-over.png)
 
