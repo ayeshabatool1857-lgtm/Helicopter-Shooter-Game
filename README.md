@@ -85,13 +85,7 @@ Through this project, I practiced C# programming, object-oriented design, GUI de
 
 
 
-Author
-
-Ayesha Batool
-
-
-
-\* Screenshots
+\*  Screenshots
 
 
 
@@ -103,7 +97,7 @@ Ayesha Batool
 
 * Gameplay
 
-!\[Gameplay](screenshots/gameplay.png)
+!\[Gameplay](screenshots/game-play.png)
 
 
 
