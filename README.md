@@ -1,4 +1,4 @@
-\* Helicopter Shooter Game
+\*\* HELICOPTER SHOOTER GAME
 
 
 
@@ -90,4 +90,24 @@ Author
 Ayesha Batool
 
 
+
+\* Screenshots
+
+
+
+* Start Screen
+
+!\[Start Screen](screenshots/start-screen.png)
+
+
+
+* Gameplay
+
+!\[Gameplay](screenshots/gameplay.png)
+
+
+
+* Game Over
+
+!\[Game Over](screenshots/game-over.png)
 
