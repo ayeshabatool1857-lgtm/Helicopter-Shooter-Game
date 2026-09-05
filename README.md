@@ -91,13 +91,13 @@ Screenshots
 
 * Start Screen
 
-!\[Start Screen](./screenshots/start-screen.png)
+![Start Screen](./screenshots/start-screen.png)
 
 * Gameplay
 
-!\[Gameplay](./screenshots/game-play.png)
+![Gameplay](./screenshots/game-play.png)
 
 * Game Over
 
-!\[Game Over](./screenshots/game-over.png)
+![Game Over](./screenshots/game-over.png)
 
